@@ -72,10 +72,10 @@
 ### PATCH/comments/:Id
 -update commnets details.
 
-### GET /:Id
+### GET /comments/:Id
 - find comment by its object id and populate all post rellated to this comments and
 -  also populates users which creates these comments.
 -  
-### DELETE /delete/:Id
+### DELETE /comments/:Id
 -delete user by its object id.
 
